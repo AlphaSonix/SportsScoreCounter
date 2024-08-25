@@ -46,3 +46,4 @@ function resetGuest() {
     totalScoreGuest = 0;
     scoreDisplayGuest.textContent = 0;
 }
+
